@@ -1,0 +1,11 @@
+#image{
+    max-width: max-content;
+    height: auto ;
+    display: block;
+}
+
+img{
+
+    align-items: center;
+
+}
